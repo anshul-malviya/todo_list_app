@@ -42,9 +42,9 @@ input{
     outline:none;
 }
 button{
-    width: 40px;
-    min-height: 40px;
-    border-radius: 50%;
+    width: 50px;
+    min-height: 30px;
+    border-radius: 60%;
     font-size: 40px;
     color: #4040a1;
     border-color: transparent;
