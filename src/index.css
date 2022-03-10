@@ -92,5 +92,6 @@ ul li {
     .center_div{
         width: 85%;
         /* height:80vh; */
+        margin: 15px 0;
     }
 }
